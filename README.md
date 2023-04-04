@@ -11,11 +11,15 @@ The forward voltage of a red LED is about 2 volts and the maximum allowable curr
 
 Suppose we are using a 5 volt power supply for our Arduino. To calculate the resistance needed for the red LED, we can use Ohm's law:
 
+<img width="400" src="Images/Job2.png">
+
 ```
 R = (V_alim - V_LED) / I_LED
 R = (5 V - 2 V) / 0,01 A = 300 ohms
 E12 R series = 330 ohms
 ```
+
+<img width="400" src="Images/J2.HEIC">
 
 ## JOB04
 > When connecting LEDs in series, you must take into account the forward voltage of each LED, the supply voltage and the current you want to pass through the circuit.
