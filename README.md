@@ -1,5 +1,9 @@
 # ArduinoJour1
 
+## Job 01
+
+<img width="400" src="Images/Job01.png">
+
 ## JOB02
 > To calculate the resistor to use with a red LED connected to an Arduino, one must take into account the supply voltage of the Arduino, the direct voltage of the LED and the maximum current admissible by the LED.
 
